@@ -21,6 +21,7 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
+    "@aws-sdk/lib-dynamodb": "^3.332.0",
     "ts-dotenv": "^0.9.1"
   }
 }
