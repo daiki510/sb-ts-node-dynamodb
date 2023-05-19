@@ -10,14 +10,6 @@ import { load } from 'ts-dotenv';
 
 type Item = {
   userId: string;
-  itemId: string;
-  salesDate: string;
-  itemName: string;
-  itemPrice: number;
-  salesFee: number;
-  profit: number;
-  shippingCost: number;
-  shippingType: string;
   createdAt: string;
 };
 
